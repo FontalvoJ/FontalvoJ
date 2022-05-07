@@ -17,7 +17,7 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="José David Fontalvo Mejia's Facebook Profile" height="30" width="30">
   </a>
   
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.com/channels/Jose Fontalvo 🇨🇴#8208">
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="José David Fontalvo Mejia's Discord Profile" height="30" width="30">
   </a>
 </p>

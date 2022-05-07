@@ -1,6 +1,6 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐉𝐨𝐬𝐞́ 𝐃𝐚𝐯𝐢𝐝 
+# 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐉𝐨𝐬𝐞́, 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞 𝐲𝐨𝐮 👋🏼
 
-Linkedin fontalvoj Instagram iegueio.7 
+
 
 <!---
 FontalvoJ/FontalvoJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

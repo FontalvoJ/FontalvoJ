@@ -1,6 +1,7 @@
 
-# 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐉𝐨𝐬𝐞́, 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞 𝐲𝐨𝐮 👋🏼
+# 𝐇i, 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞 𝐲𝐨𝐮 👋🏼
 
+Welcome to my GitHub! I'm José, I'm 20 years old and I'm a systems engineering student at the Universidad Católica Luis Amigó - Apartado. When I'm not studying, I listen to music in my room, I like to learn and transcend, I love to do useful and fun things, I'm also interested in programming. 👨🏻‍💻
 
 ### 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 🛠 🥇
 
@@ -45,6 +46,8 @@
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="José David Fontalvo Mejia's Discord Profile" height="30" width="30">
   </a>
 </p>
+
+⭐️ From [FontalvoJ](https://github.com/FontalvoJ) 
 <!---
 FontalvoJ/FontalvoJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

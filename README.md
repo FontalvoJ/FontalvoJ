@@ -2,25 +2,29 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐉𝐨𝐬𝐞́, 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞 𝐲𝐨𝐮 👋🏼
 
 
-### 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 🛠 🥇
+### 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 🛠 🥇
 
 <div display="flex">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 <br/>
 
 ### 𝐁𝐚𝐬𝐢𝐜 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 🛠 🏅
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
-
-
+<div display="flex">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+<br/>
 
 <h2 align="center"> 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 👾</h2>
 

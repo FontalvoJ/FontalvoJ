@@ -4,6 +4,12 @@
 
 ### 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 🛠 🥇
 
+<div display="flex">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<br/>
+
 ### 𝐁𝐚𝐬𝐢𝐜 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 🛠 🏅
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
@@ -12,6 +18,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/FontalvoJ/)](https://github.com/FontalvoJ/)
 
 
 

@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm José, I'm 20 years old and I'm a systems engineering 
 </div>
 <br/>
 
-<h2 align="center"> 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 👾</h2>
+<h2 align="left"> 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 👾</h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/fontalvoj">

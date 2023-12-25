@@ -1,7 +1,8 @@
 
-# 𝐇i, 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞 𝐲𝐨𝐮 👋🏼
+# 𝐇i, 𝐍𝐢𝐜𝐞 𝐭o 𝐦𝐞𝐞𝐭 𝐲o𝐮 👋🏼
 
-Welcome to my GitHub! I'm José, I'm a systems engineering student at the Universidad Católica Luis Amigó - Apartado. When I'm not studying, I listen to music in my room, I like to learn and transcend, I love to do useful and fun things, I'm also interested in programming. 👨🏻‍💻
+**About Me:**
+I'm a Systems Engineer with experience in data development and analysis, as well as the construction and maintenance of Power BI dashboards. I am a proactive and team-oriented individual with skills in web development, databases, and project management. I am familiar with agile methodologies such as SCRUM.
 
 ### 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 🛠 🥇
 
@@ -11,6 +12,10 @@ Welcome to my GitHub! I'm José, I'm a systems engineering student at the Univer
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <!-- Added Power BI, DAX, and R -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
+  <img src="https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=dax&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </div>
 <br/>
 
@@ -47,8 +52,4 @@ Welcome to my GitHub! I'm José, I'm a systems engineering student at the Univer
   </a>
 </p>
 
-⭐️ From [FontalvoJ](https://github.com/FontalvoJ) 
-<!---
-FontalvoJ/FontalvoJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ From [FontalvoJ](https://github.com/FontalvoJ)

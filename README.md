@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://ibb.co/q01frpD">
-        <img src="[https://i.ibb.co/PTCn6gr/Captura-de-pantalla-2024-05-13-211021.png](https://media.licdn.com/dms/image/D4E16AQG3f0oXXUnwyw/profile-displaybackgroundimage-shrink_350_1400/0/1719348311445?e=1726704000&v=beta&t=-DphhxLiLe1CmotitP0Lpacuh8AzTr7nKPHRR0iJO3Q)" alt="Captura-de-pantalla-2024-05-13-211021" border="0" width="800" height="auto">
+        <img src="[[https://i.ibb.co/PTCn6gr/Captura-de-pantalla-2024-05-13-211021.png](https://media.licdn.com/dms/image/D4E16AQG3f0oXXUnwyw/profile-displaybackgroundimage-shrink_350_1400/0/1719348311445?e=1726704000&v=beta&t=-DphhxLiLe1CmotitP0Lpacuh8AzTr7nKPHRR0iJO3Q)](https://drive.google.com/file/d/1j4EkkueVeS264R1lg9fla_wx5fXxOAsy/view?usp=sharing)" alt="Captura-de-pantalla-2024-05-13-211021" border="0" width="800" height="auto">
     </a>
 </p>
 

@@ -46,7 +46,6 @@
     <a href="https://www.python.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
     <a href="https://www.java.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
     <a href="https://www.r-project.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="60" /></a>  
-    <a href="https://graphql.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="60" /></a> 
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /></a>  
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
     <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 20px;" src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="Visual Studio 2022" height="60" /></a>  

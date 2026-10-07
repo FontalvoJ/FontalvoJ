@@ -1,68 +1,49 @@
 <p align="center">
     <a href="https://ibb.co/q01frpD">
-        <img src="https://i.ibb.co/PTCn6gr/Captura-de-pantalla-2024-05-13-211021.png" alt="Captura-de-pantalla-2024-05-13-211021" border="0" width="800" height="auto">
+        <img src="https://i.ibb.co/PTCn6gr/Captura-de-pantalla-2024-05-13-211021.png" alt="Banner" width="800">
     </a>
 </p>
 
+<h1 align="center">José David Fontalvo Mejía</h1>
+<p align="center"><i>Systems Engineer · Process Automation · IT Service Management</i></p>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/fontalvoj/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/FontalvoJ"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.com/channels/Jose Fontalvo 🇨🇴#8208"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/josedavid.fontalvomejia/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.instagram.com/iegueyo.7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/fontalvoj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:fontalvomejiajosedavid54@gmail.com"><img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=0891b2"></a>
 </p>
 
+---
 
-🖥️ I'm a Systems Engineer with experience in data development and analysis, as well as the construction and maintenance of Power BI dashboards.
+## 👋 About me
 
-🔍 Areas of Expertise:
-- Data Development and Analysis
-- Construction and Maintenance of Power BI Dashboards
+I'm a Systems Engineer who started in data and frontend development, grew through IT service management, and now focuses on **automating processes** so teams spend less time on repetitive work.
 
-🌐 Also experienced in:
-- Software Development
-- Frontend Development
+My path gave me a practical view of technology: I've seen how processes break from the support desk, and I now build the solutions that prevent it.
 
-🚀 Proactive and team-oriented individual with skills in:
-- Web Development
-- Databases
-- Project Management
+- 🎧 Background: 2+ years in ITSM/ITIL support (ServiceNow), with 90%+ first-contact resolution and SLA compliance
+- 🌱 Exploring: generative AI use cases applied to real business processes
 
-🌀 Familiar with Agile Methodologies such as SCRUM.
+## 🛠️ Tech & Tools
 
-## 🛠️ Skills & Tools
-
-<div align="center">  
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
-    <a href="https://angular.io/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="60" /></a>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>  
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>  
-    <a href="https://nodejs.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
-    <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="60" /></a>  
-    <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" height="60" /></a>  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" /></a>  
-    <a href="https://www.python.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
-    <a href="https://www.r-project.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="60" /></a>  
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /></a>  
-    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
-    <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 20px;" src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="Visual Studio 2022" height="60" /></a>  
-    <a href="https://git-scm.com/" target="_blank"><img style="margin: 20px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-    <a href="https://github.com/" target="_blank"><img style="margin: 20px;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-rouge.png" alt="GitHub" height="60" /></a>  
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 20px;" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power Bi" height="60" /></a>  
-</div>  
+| | |
+|:--|:--|
+| **🤖 Automation & AI** | ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![RPA](https://img.shields.io/badge/RPA-0891B2?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+| **📊 Data & Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **💻 Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **⚙️ Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) |
+| **🎧 ITSM & Tools** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white) ![ITIL](https://img.shields.io/badge/ITIL-0891B2?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white) |
 
 ## 📊 GitHub Stats
-<table style="margin: auto;">
-    <tr>
-        <td valign="top" width="50%" style="text-align: center;">
-            <a href="http://www.github.com/FontalvoJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FontalvoJ&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="350" height="150" style="display: block; margin: auto;" /></a>
-        </td>
-        <td valign="top" width="50%" style="text-align: center;">
-            <a href="https://github.com/FontalvoJ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FontalvoJ&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="350" height="150" style="display: block; margin: auto;" /></a>
-        </td>
-    </tr>
-</table>
 
+<p align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FontalvoJ&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" height="165" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repos per language" />
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Most commit language" />
+</p>

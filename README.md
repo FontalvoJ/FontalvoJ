@@ -4,7 +4,6 @@
     </a>
 </p>
 
-<h1 align="center">José David Fontalvo Mejía</h1>
 <p align="center"><i>Systems Engineer · Process Automation · IT Service Management</i></p>
 
 <p align="center">
@@ -35,15 +34,5 @@ My path gave me a practical view of technology: I've seen how processes break fr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
-</p>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FontalvoJ&theme=dark)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FontalvoJ&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" height="165" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repos per language" />
-    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Most commit language" />
-</p>

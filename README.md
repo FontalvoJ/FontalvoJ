@@ -36,7 +36,4 @@ My path gave me a practical view of technology: I've seen how processes break fr
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FontalvoJ&theme=dark)
 
-<p align="center">
-    <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" width="100%" />
-</p>
 
